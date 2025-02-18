@@ -1,6 +1,0 @@
----
-Date: 2024-03-05
-Done?: true
-Subject:
-  - "[[School/oldschool/Subjects/French\\|French]]"
----
